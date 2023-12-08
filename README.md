@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 A propos de moi:
 <br>👋 Salut, je suis Mathieu<br><br>🚀 Passionné de développement et d'open source<br>🌍 Explorateur de code sur GitHub<br>💻 Développeur de jour, codeur de nuit<br>📚 Toujours en train d'apprendre et de grandir<br>🎯 Axé sur la qualité et la performance<br><br><br>🌟 Découvrez mes projets GitHub ci-dessous ⬇️<br>
 
 
